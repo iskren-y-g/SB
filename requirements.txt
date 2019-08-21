@@ -3,3 +3,5 @@ matplotlib
 astropy
 acstools
 photutils
+jupyter_contrib_nbextensions
+jupyterthemes
