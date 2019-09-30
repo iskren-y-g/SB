@@ -5,3 +5,4 @@ acstools
 photutils
 jupyter_contrib_nbextensions
 jupyterthemes
+imexam
